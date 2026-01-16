@@ -1,3 +1,5 @@
+import './index.css' // <--- Ajoute cette ligne impérativement
+
 function App() {
   return (
     <div className="min-h-screen bg-[#050505] text-white font-sans selection:bg-green-500/30">
