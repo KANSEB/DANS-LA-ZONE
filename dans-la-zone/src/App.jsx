@@ -19,7 +19,7 @@ function App() {
           BIENVENUE <br/> DANS LA ZONE.
         </h1>
         <p className="text-gray-400 text-lg md:text-xl max-w-2xl mx-auto mb-12">
-          Ceci est ta nouvelle base. On va constr uire quelque chose d'incroyable ici. 
+          Ceci est ta nouvelle base. On va construire quelque chose d'incroyable ici. 
           Dis-moi ce que tu veux ajouter pour commencer.
         </p>
         <button className="bg-white text-black px-10 py-4 rounded-full font-bold hover:bg-green-500 hover:text-white transition-all transform hover:scale-105">
